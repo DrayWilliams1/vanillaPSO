@@ -10,3 +10,5 @@ A few details on the PSO Algorithm:
 - Boundary Constraints: particles are permitted to exit the feasible region, but only allow updating of the personal best when a solution is feasible.
 - Iteration Strategy: a synchronous iteration strategy.
 - Termination Criterion: fixed maximum number of iterations.
+
+Additional notes on the testing can be found in the pdf report.
