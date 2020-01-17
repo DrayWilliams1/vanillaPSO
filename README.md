@@ -1,5 +1,5 @@
 # vanillaPSO
-Completed in 2017, this is a project where the purpose was to implement the vanilla PSO and investigate the performance using different parameter configurations, comparing the performance to random search. Random search, in this context, refers to a uniform random sampling of the search space. This can be accomplished by sampling and evaluating random (feasible) points uniformly within the search space.
+Completed in 2017, this is a project where the purpose was to implement a vanilla PSO and investigate the performance using different parameter configurations, comparing the performance to random search. Random search, in this context, refers to a uniform random sampling of the search space. This can be accomplished by sampling and evaluating random (feasible) points uniformly within the search space.
 
 The PSO algorithm is a stochastic search technique that is applicable to real-valued optimization problems. However, it’s performance is rather sensitive to the values assigned to its control parameters, namely the inertia weight, the cognitive acceleration coefficient (c1), and the social acceleration coefficient (c2). Poor parameter values can lead to performance that is even worse than random search
 
